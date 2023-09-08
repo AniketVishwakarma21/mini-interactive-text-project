@@ -9,7 +9,6 @@ const preload = () => {
   const loader = new THREE.FontLoader( manager );
   const font = loader.load('https://res.cloudinary.com/dydre7amr/raw/upload/v1612950355/font_zsd4dr.json', function ( font ) { typo = font; });
   const particle = new THREE.TextureLoader( manager ).load( 'https://res.cloudinary.com/dfvtkoboz/image/upload/v1605013866/particle_a64uzf.png');
-
 }
 
 if ( document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll))
@@ -381,3 +380,5 @@ class CreateParticles {
 	    return Math.sqrt(Math.pow((x1 - x2), 2) + Math.pow((y1 - y2), 2));
 	}
 }
+cvbndnfxc,n,cgkjxf
+text added by mistake
