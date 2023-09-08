@@ -4,11 +4,12 @@ This is interactive partical page using frontend (html, css and javscript).The t
 
 
 
+
 # Sample video
 
 <video src="/video/video.mp4" controls title="Title"></video>
 
+## Screenshot 1
 
-## Screenshot
 ![Alt text](screenshot/S1.png)
 
